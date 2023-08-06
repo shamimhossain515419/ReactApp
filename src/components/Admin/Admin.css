@@ -1,0 +1,14 @@
+.banner {
+  height: 200px;
+  width: 300px;
+}
+.item {
+  height: 100px;
+  width: 100px;
+}
+.table__DIV {
+     max-width: 100%; 
+}
+.table__DIV table{
+   min-width: 500px;
+}
